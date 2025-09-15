@@ -11,7 +11,7 @@ Temperature and fan state are printed live on the Serial Monitor.
 
 ---
 
-## Hardware Used
+## Required Hardware 
 - Arduino Uno
 - 10kΩ NTC Thermistor
 - 10kΩ Resistor (voltage divider)

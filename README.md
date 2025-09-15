@@ -37,6 +37,18 @@ For real hardware implementation:
 4.Serial Monitor shows temperature and fan status in real time.
 
 ---
+## Project Structure
+```
+Fan_Control_using_NTC/
+│── README.md
+│── src/
+│   └── fan.ino
+│── docs/
+│   └── How_Code_Works.md
+│── images/
+│   └── simulation_output.jpg
+```
+---
 # Detailed Explanation
 
 ## 1. Thermistor Voltage Divider

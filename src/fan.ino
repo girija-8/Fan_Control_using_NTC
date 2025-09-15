@@ -1,5 +1,5 @@
 const int TEMP_SENSOR_PIN = A0; 
-const int FAN_PIN = 9;          
+const int FAN_PIN = D9;          
 
 const float SERIES_RESISTOR = 10000;    
 const float NOMINAL_RESISTANCE = 10000; 

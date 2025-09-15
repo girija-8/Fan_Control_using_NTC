@@ -31,10 +31,10 @@ For real hardware implementation:
 ---
 
 ##  How It Works
-1.Thermistor + 10k resistor form a voltage divider, output fed to A0.
-2.Arduino calculates the temperature from the ADC value.
-3.Depending on temperature, PWM output controls the LED/fan.
-4.Serial Monitor shows temperature and fan status in real time.
+- 1.Thermistor + 10k resistor form a voltage divider, output fed to A0.
+- 2.Arduino calculates the temperature from the ADC value.
+- 3.Depending on temperature, PWM output controls the LED/fan.
+- 4.Serial Monitor shows temperature and fan status in real time.
 
 ---
 ## Project Structure

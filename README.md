@@ -25,8 +25,8 @@ Due to the unavailability of some physical components, this project was implemen
 The fan is simulated with an LED connected to pin D13, where its brightness represents the fan speed.  
 
 For real hardware implementation:
--Use a transistor or motor driver to connect a DC fan.
--Pick a PWM pin (like D9, D10, or D11) instead of D13 for smoother control.
+- Use a transistor or motor driver to connect a DC fan.
+- Pick a PWM pin (like D9, D10, or D11) for fan control.
 
 ---
 
